@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+#question-container { margin: 20px; }
+button { padding: 10px 20px; margin: 10px; }
+.option { display: block; margin: 10px; padding: 10px; border: 1px solid #ccc; cursor: pointer; }
+.option.selected { background-color: #e0e0e0; }
